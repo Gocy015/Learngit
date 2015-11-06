@@ -11,4 +11,4 @@ Git tracks changes of files.
 
 This line is created under dev branch!
 
-And This one is created under MASTER branch ~
+when conflicts come,we can only fix them manually.
