@@ -10,3 +10,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 This line is created under dev branch!
+
+This line is created under feature1 branch!
