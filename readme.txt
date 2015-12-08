@@ -15,3 +15,5 @@ when conflicts come,we can only fix them manually.
 
 
 2015-12-8
+
+a bug had occurred but now it’s been solved
