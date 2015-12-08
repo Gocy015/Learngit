@@ -12,3 +12,6 @@ Git tracks changes of files.
 This line is created under dev branch!
 
 when conflicts come,we can only fix them manually.
+
+
+2015-12-8
